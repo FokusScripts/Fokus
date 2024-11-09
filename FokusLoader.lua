@@ -9,7 +9,8 @@ local SupportedGames = {
     [7503115095] = "FokusPITScript.lua",
     [17893531862] = "FokusPITScript.lua",
     [13083893317] = "FokusLSScript.lua",
-    [192800] = "FokusWAAPPScript.lua"
+	[192800] = "FokusWAAPPScript.lua",
+    [6403373529] = "FokusSBScript.lua"
 }
 
 for i, v in pairs(SupportedGames) do
